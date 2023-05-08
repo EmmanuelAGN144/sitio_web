@@ -1,0 +1,15 @@
+body{
+    margin: 0em;
+}
+
+div.cover{
+    height: 400px;
+    background-color: rgb(63, 127, 138);
+    color: white;
+    background-image: url("C:/Users/LAB-E/Desktop/SITIO_WEB/img/portada.GPG");
+    background-size: cover;
+    background-position: center;
+    background-color: rgb (0,0,0,0.5);
+    background-blend-mode: darken;
+}
+
